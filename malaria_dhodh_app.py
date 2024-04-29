@@ -1,6 +1,6 @@
 import streamlit as st
 #import jpype
-import Jython
+#import Jython
 import pandas as pd
 from PIL import Image
 import subprocess
