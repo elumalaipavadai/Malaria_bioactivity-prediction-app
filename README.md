@@ -17,8 +17,7 @@ conda activate Malaria_dhodh
 Download requirements.txt file
 
 ```
-[wget https://raw.githubusercontent.com/dataprofessor/bioactivity-prediction-app/main/requirements.txt
-](https://github.com/elumalaipavadai/AI-ML-based-Prediction-of-Human-Malarial-DHODH-Inhibition)
+(https://github.com/elumalaipavadai/AI-ML-based-Prediction-of-Human-Malarial-DHODH-Inhibition)
 ```
 
 Pip install libraries
