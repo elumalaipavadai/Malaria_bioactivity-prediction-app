@@ -37,5 +37,5 @@ The machine learning model used in this web app will firstly have to be generate
 ###  Launch the app
 
 ```
-[https://malaria-dhodh-bioactivity-prediction.streamlit.app/]
+https://malaria-dhodh-bioactivity-prediction.streamlit.app/
 ```
