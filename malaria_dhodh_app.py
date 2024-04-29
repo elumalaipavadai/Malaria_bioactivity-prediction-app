@@ -55,7 +55,7 @@ With this app, you can predict how effective a compound can inhibit the Malarial
 with st.sidebar.header('1. Upload your CSV data'):
     uploaded_file = st.sidebar.file_uploader("Upload your input file", type=['txt'])
     st.sidebar.markdown("""
-[Example input file](https://raw.githubusercontent.com/dataprofessor/bioactivity-prediction-app/main/example_acetylcholinesterase.txt)
+[Example input file](https://github.com/elumalaipavadai/Malaria_bioactivity-prediction-app/blob/main/example_pf_DHODH.txt)
 """)
 
 if st.sidebar.button('Predict using Regression Model'):
