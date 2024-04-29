@@ -1,10 +1,12 @@
 import streamlit as st
+import jpype
 import pandas as pd
 from PIL import Image
 import subprocess
 import os
 import base64
 import pickle
+
 
 # Molecular descriptor calculator
 def desc_calc():
