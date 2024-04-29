@@ -6,7 +6,7 @@ To recreate this web app on your own computer, do the following.
 ### Create conda environment
 Firstly, we will create a conda environment called *bioactivity*
 ```
-conda create -n bioactivity python=3.7.9
+conda create -n Malaria_dhodh 
 ```
 Secondly, we will login to the *bioactivity* environement
 ```
@@ -16,9 +16,9 @@ conda activate Malaria_dhodh
 
 Download requirements.txt file
 
-```
-(https://github.com/elumalaipavadai/AI-ML-based-Prediction-of-Human-Malarial-DHODH-Inhibition)
-```
+
+[https://github.com/elumalaipavadai/AI-ML-based-Prediction-of-Human-Malarial-DHODH-Inhibition]
+
 
 Pip install libraries
 ```
@@ -35,6 +35,6 @@ The machine learning model used in this web app will firstly have to be generate
 
 ###  Launch the app
 
-```
-https://malaria-dhodh-bioactivity-prediction.streamlit.app/
-```
+
+[https://malaria-dhodh-bioactivity-prediction.streamlit.app/]
+
