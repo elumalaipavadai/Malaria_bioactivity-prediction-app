@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ###  Download and unzip contents from GitHub repo
 
-Download and unzip contents from [https://github.com/dataprofessor/bioactivity-prediction-app/archive/main.zip](https://github.com/elumalaipavadai/AI-ML-based-Prediction-of-Human-Malarial-DHODH-Inhibition)
+Download and unzip contents from [https://github.com/elumalaipavadai/AI-ML-based-Prediction-of-Human-Malarial-DHODH-Inhibition]
 
 ### Generating the PKL file
 
@@ -37,5 +37,5 @@ The machine learning model used in this web app will firstly have to be generate
 ###  Launch the app
 
 ```
-[streamlit run app.py](https://malaria-dhodh-bioactivity-prediction.streamlit.app/)
+[https://malaria-dhodh-bioactivity-prediction.streamlit.app/]
 ```
