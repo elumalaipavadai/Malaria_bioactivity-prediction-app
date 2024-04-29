@@ -10,15 +10,15 @@ conda create -n bioactivity python=3.7.9
 ```
 Secondly, we will login to the *bioactivity* environement
 ```
-conda activate bioactivity
+conda activate Malaria_dhodh
 ```
 ### Install prerequisite libraries
 
 Download requirements.txt file
 
 ```
-wget https://raw.githubusercontent.com/dataprofessor/bioactivity-prediction-app/main/requirements.txt
-
+[wget https://raw.githubusercontent.com/dataprofessor/bioactivity-prediction-app/main/requirements.txt
+](https://github.com/elumalaipavadai/AI-ML-based-Prediction-of-Human-Malarial-DHODH-Inhibition)
 ```
 
 Pip install libraries
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ###  Download and unzip contents from GitHub repo
 
-Download and unzip contents from https://github.com/dataprofessor/bioactivity-prediction-app/archive/main.zip
+Download and unzip contents from [https://github.com/dataprofessor/bioactivity-prediction-app/archive/main.zip](https://github.com/elumalaipavadai/AI-ML-based-Prediction-of-Human-Malarial-DHODH-Inhibition)
 
 ### Generating the PKL file
 
@@ -37,5 +37,5 @@ The machine learning model used in this web app will firstly have to be generate
 ###  Launch the app
 
 ```
-streamlit run app.py
+[streamlit run app.py](https://malaria-dhodh-bioactivity-prediction.streamlit.app/)
 ```
